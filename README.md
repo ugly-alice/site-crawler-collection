@@ -1,6 +1,8 @@
 # site-crawler-collection
 A collection of site crawlers writter in popular languages.
 
+#### Important note: please, do not make fun of me, I'm started to learn programming November, 2015.
+
 Currently it have only one site supported: Tapastic.
 
 You should add a link to the comic and a folder name to store images, then just run the script.
