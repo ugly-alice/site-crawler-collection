@@ -1,5 +1,5 @@
 # site-crawler-collection
-A collection of site crawlers writter in popular languages.
+A collection of site crawlers written in popular languages.
 
 #### Important note: please, do not make fun of me, I'm started to learn programming November, 2015.
 
